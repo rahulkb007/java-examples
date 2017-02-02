@@ -17,7 +17,7 @@ Roman numerals are based on seven symbols:
 
         L   -   50
 
-        C   -   -100
+        C   -   100
 
         D   -   500
 
