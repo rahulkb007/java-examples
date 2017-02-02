@@ -7,37 +7,21 @@ The numbers used for intergalactic transactions follows similar convention to th
 
 Roman numerals are based on seven symbols:
 
-Symbol
+Symbol  -   Value
 
-Value
+    I   -   1
 
-I
+    V   -   5
 
-1
+    X   -   10
 
-V
+    L   -   50
 
-5
+    C   -   -100
 
-X
+    D   -   500
 
-10
-
-L
-
-50
-
-C
-
-100
-
-D
-
-500
-
-M
-
-1,000
+    M   -   1,000
 
 
 Numbers are formed by combining symbols together and adding the values. For example, MMVI is 1000 + 1000 + 5 + 1 = 2006. Generally, symbols are placed in order of value, starting with the largest values. When smaller values precede larger values, the smaller values are subtracted from the larger values, and the result is added to the total. For example MCMXLIV = 1000 + (1000 − 100) + (50 − 10) + (5 − 1) = 1944.
