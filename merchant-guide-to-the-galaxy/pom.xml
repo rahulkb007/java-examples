@@ -5,7 +5,11 @@
     <groupId>com.bhartiya</groupId>
     <artifactId>merchant-guide-to-the-galaxy</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <modules>
+        <module>merchant-guide-e2e</module>
+        <module>merchant-guide</module>
+    </modules>
+    <packaging>pom</packaging>
 
     <name>merchant-guide-to-the-galaxy</name>
 

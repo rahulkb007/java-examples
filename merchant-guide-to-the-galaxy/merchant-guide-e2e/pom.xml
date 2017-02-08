@@ -1,0 +1,28 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>merchant-guide-to-the-galaxy</artifactId>
+        <groupId>com.bhartiya</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>merchant-guide-e2e</artifactId>
+    <packaging>jar</packaging>
+
+    <name>merchant-guide-e2e</name>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.bhartiya</groupId>
+            <artifactId>merchant-guide</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>org.spockframework</groupId>
+            <artifactId>spock-core</artifactId>
+            <version>1.1-groovy-2.4-rc-3</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+</project>
